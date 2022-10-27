@@ -22,7 +22,7 @@ public class rombus
             {
                 if(i==1||i==n||k==1||k==n)
                 {
-                    System.out.print("*");
+                    System.out.print("#");
                 }
                 else
                 {
