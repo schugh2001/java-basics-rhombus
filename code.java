@@ -7,7 +7,7 @@ public class rombus
         int n=sc.nextInt();
         rombus(n);
     }
-    public static void rombus(int n)
+    public static void rombu(int n)
     {
         for(int i=1;i<=n;i++)
         {
