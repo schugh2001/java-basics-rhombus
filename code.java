@@ -28,7 +28,7 @@ public class rombus
                 {
                    System.out.print(" "); 
                 }
-                
+                {}
                     
             }
             System.out.println();
